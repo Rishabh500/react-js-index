@@ -1,7 +1,5 @@
 # React JS Index
-
-# Typescript topics
-All Typescript topics index
+All React JS topics index
 
 <ol>
   <li><a href="javascript:;" title="What is React?">What is React?</a></li>
@@ -51,7 +49,6 @@ All Typescript topics index
 </ol>
 
 #### Reference Links
-
 ##### Codevolution
 - https://www.youtube.com/watch?v=cF2lQ_gZeA8&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A 
 - https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3 
@@ -66,10 +63,10 @@ All Typescript topics index
 
 ##### Academind
 - https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS 
-- https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_ 
+- https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU
 
 ##### Mosh
 - https://www.youtube.com/watch?v=N3AkSS5hXMA&list=PLTjRvDozrdlzBR7lYU4DtQRDQ6xCNSBIS
 
 ##### Important Links (Interview Questions)
-- https://www.edureka.co/blog/interview-questions/react-interview-questions/
+- https://www.edureka.co/blog/interview-questions/react-interview-questions
