@@ -16,9 +16,26 @@ All React JS topics index
     </ul>
   </li>
   <li><a href="javascript:;" title="State and Props">State and Props</a></li>
-  <li><a href="javascript:;" title="Hooks">Hooks</a></li>
+  <li><a href="javascript:;" title="Hooks">Hooks</a>
+    <ul>
+      <li><a href="javascript:;" title="Basic Hooks">Basic Hooks</a>
+        <ul>
+          <li><a href="javascript:;" title="useState">useState</a></li>
+          <li><a href="javascript:;" title="useEffect">useEffect</a></li>
+          <li><a href="javascript:;" title="useContext">useContext</a></li>
+        </ul>
+      </li>
+      <li><a href="javascript:;" title="Additional Hooks">Additional Hooks</a></li>
+    </ul>
+  </li>
   <li><a href="javascript:;" title="Form Handling">Form Handling</a></li>
   <li><a href="javascript:;" title="Static Type Checking">Static Type Checking</a></li>
+  <li><a href="javascript:;" title="Server call">Server call</a>
+    <ul>
+      <li><a href="javascript:;" title="fetch method">fetch method</a></li>
+      <li><a href="javascript:;" title="axios">axios</a></li>
+    </ul>
+  </li>
   <li><a href="javascript:;" title="Data Fetching">Data Fetching</a></li>
   <li><a href="javascript:;" title="Lifecycle">Lifecycle</a></li>
   <li><a href="javascript:;" title="Event Handling">Event Handling</a></li>
@@ -67,6 +84,7 @@ All React JS topics index
 
 ##### Mosh
 - https://www.youtube.com/watch?v=N3AkSS5hXMA&list=PLTjRvDozrdlzBR7lYU4DtQRDQ6xCNSBIS
+- https://codewithmosh.com/p/mastering-react
 
 ##### Important Links (Interview Questions)
 - https://www.edureka.co/blog/interview-questions/react-interview-questions
