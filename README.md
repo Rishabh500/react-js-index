@@ -20,7 +20,9 @@ All React JS topics index
   </li>
   <li><a href="https://github.com/suryansh54/react-jsx" title="JSX">JSX</a></li>
   <li><a href="javascript:;" title="Virtual DOM">Virtual DOM</a></li>
-  <li><a href="javascript:;" title="Refs and the DOM">Refs and the DOM</a></li>
+  <li><a href="javascript:;" title="State and Props">Props</a></li>
+  <li><a href="javascript:;" title="State">State</a></li>
+  <li><a href="javascript:;" title="Lifecycle">Lifecycle</a></li>
   <li><a href="javascript:;" title="Component">Component</a>
     <ul>
       <li><a href="javascript:;" title="Stateless component or Functional component or Presentational component">Stateless component or Functional component or Presentational component</a></li>
@@ -29,7 +31,6 @@ All React JS topics index
       <li><a href="javascript:;" title="Pure component">Pure component</a></li>
     </ul>
   </li>
-  <li><a href="javascript:;" title="State and Props">State and Props</a></li>
   <li><a href="javascript:;" title="Event Handling">Event Handling</a></li>
   <li><a href="javascript:;" title="Hooks">Hooks</a>
     <ul>
@@ -43,6 +44,7 @@ All React JS topics index
       <li><a href="javascript:;" title="Additional Hooks">Additional Hooks</a></li>
     </ul>
   </li>
+  <li><a href="javascript:;" title="Refs and the DOM">Refs and the DOM</a></li>
   <li><a href="javascript:;" title="Form Handling">Form Handling</a></li>
   <li><a href="javascript:;" title="Static Type Checking">Static Type Checking</a></li>
   <li><a href="javascript:;" title="Server call">Server call</a>
