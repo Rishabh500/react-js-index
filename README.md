@@ -3,6 +3,21 @@ All React JS topics index
 
 <ol>
   <li><a href="https://github.com/suryansh54/react-introduction" title="React Introduction">React Introduction</a></li>
+  <li><a href="https://github.com/suryansh54/javascript-index" title="JavaScript before React">JavaScript before React</a>
+    <ul>
+      <li><a href="javascript:;" title="this keyword">this keyword</a></li>
+      <li><a href="javascript:;" title="Modules">Modules</a></li>
+      <li><a href="javascript:;" title="filter, map and reduce">filter, map and reduce</a></li>
+      <li><a href="javascript:;" title="Let & Const">Let & Const</a></li>
+      <li><a href="javascript:;" title="Arrow functions">Arrow functions</a></li>
+      <li><a href="javascript:;" title="Template literals">Template literals</a></li>
+      <li><a href="javascript:;" title="Default parameters">Default parameters</a></li>
+      <li><a href="javascript:;" title="Object literals">Object literals</a></li>
+      <li><a href="javascript:;" title="Rest and spread operators">Rest and spread operators</a></li>
+      <li><a href="javascript:;" title="Destructuring assignment">Destructuring assignment</a></li>
+      <li><a href="javascript:;" title="Destructuring assignment">Callbacks, Promise, Async and Await</a></li>
+    </ul>
+  </li>
   <li><a href="https://github.com/suryansh54/react-jsx" title="JSX">JSX</a></li>
   <li><a href="javascript:;" title="Virtual DOM">Virtual DOM</a></li>
   <li><a href="javascript:;" title="Refs and the DOM">Refs and the DOM</a></li>
@@ -15,6 +30,7 @@ All React JS topics index
     </ul>
   </li>
   <li><a href="javascript:;" title="State and Props">State and Props</a></li>
+  <li><a href="javascript:;" title="Event Handling">Event Handling</a></li>
   <li><a href="javascript:;" title="Hooks">Hooks</a>
     <ul>
       <li><a href="javascript:;" title="Basic Hooks">Basic Hooks</a>
@@ -37,7 +53,7 @@ All React JS topics index
   </li>
   <li><a href="javascript:;" title="Data Fetching">Data Fetching</a></li>
   <li><a href="javascript:;" title="Lifecycle">Lifecycle</a></li>
-  <li><a href="javascript:;" title="Event Handling">Event Handling</a></li>
+  <li><a href="javascript:;" title="Memo">Memo</a></li>
   <li><a href="javascript:;" title="Routing & Navigation">Routing & Navigation</a></li>
   <li><a href="javascript:;" title="React Fragments">React Fragments</a></li>
   <li><a href="javascript:;" title="React Portals">React Portals</a></li>
