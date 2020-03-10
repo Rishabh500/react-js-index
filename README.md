@@ -2,8 +2,7 @@
 All React JS topics index
 
 <ol>
-  <li><a href="javascript:;" title="What is React?">What is React?</a></li>
-  <li><a href="javascript:;" title="Angular vs React">Angular vs React</a></li>
+  <li><a href="https://github.com/suryansh54/react-introduction" title="React Introduction">React Introduction</a></li>
   <li><a href="javascript:;" title="JSX">JSX</a></li>
   <li><a href="javascript:;" title="Virtual DOM">Virtual DOM</a></li>
   <li><a href="javascript:;" title="Refs and the DOM">Refs and the DOM</a></li>
