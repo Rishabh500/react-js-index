@@ -54,7 +54,6 @@ All React JS topics index
     </ul>
   </li>
   <li><a href="javascript:;" title="Data Fetching">Data Fetching</a></li>
-  <li><a href="javascript:;" title="Lifecycle">Lifecycle</a></li>
   <li><a href="javascript:;" title="Memo">Memo</a></li>
   <li><a href="javascript:;" title="Routing & Navigation">Routing & Navigation</a></li>
   <li><a href="javascript:;" title="React Fragments">React Fragments</a></li>
