@@ -15,7 +15,8 @@ All React JS topics index
       <li><a href="javascript:;" title="Object literals">Object literals</a></li>
       <li><a href="javascript:;" title="Rest and spread operators">Rest and spread operators</a></li>
       <li><a href="javascript:;" title="Destructuring assignment">Destructuring assignment</a></li>
-      <li><a href="javascript:;" title="Destructuring assignment">Callbacks, Promise, Async and Await</a></li>
+      <li><a href="javascript:;" title="Callbacks, Promise, Async and Await">Callbacks, Promise, Async and Await</a></li>
+      <li><a href="javascript:;" title="Fetch method">Fetch method</a></li>
     </ul>
   </li>
   <li><a href="https://github.com/suryansh54/react-jsx" title="JSX">JSX</a></li>
